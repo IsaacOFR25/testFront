@@ -5,7 +5,7 @@ import Link from "next/link";
 import axios from "axios";
 
 const urlApi = "https://guia-escolar-back-end-drago-do.vercel.app";
-const urlAppGuia = "https://guia-escolar-drago-do.vercel.app/guia";
+const urlAppGuia = "https://test-front-amber.vercel.app/";
 class QRcodePage extends React.Component {
   constructor(props) {
     super(props);
