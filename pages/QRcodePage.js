@@ -4,7 +4,7 @@ import ReactModal from "react-modal";
 import Link from "next/link";
 import axios from "axios";
 
-const urlApi = "https://guia-escolar-back-end-drago-do.vercel.app";
+const urlApi = "https://test1back.vercel.app/";
 const urlAppGuia = "https://test-front-amber.vercel.app/";
 class QRcodePage extends React.Component {
   constructor(props) {
